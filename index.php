@@ -17,7 +17,7 @@
 
     ?>
         <div class='headline'>
-            <a id='testtext'>Die kleine Slut hier soll mal miesen Blowie geben amk!</a>
+            <a id='testtext'>Die kleine Bitch hier soll mal miesen Blowie geben amk!</a>
             <img src='res/welt-downloader-03-nobg.svg' alt="WELT Downloader">
         </div>
 
